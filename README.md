@@ -1,6 +1,6 @@
 # Boost_conv
 
-This project was designed as a part of the Laboratory course "Electronics Devices Lab".
+This project was designed as a part of the Laboratory course "Networks and Devices Lab".
 
 This repository contains the LTSpice schematic and output, and also the "feedback code" for changing the duty cycle.
 
